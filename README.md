@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radha-1999
-- 👀 I’m interested in ...Python
+- 👀 I’m interested in ...Python,java
 - 🌱 I’m currently learning ...any problem to write the program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Hard work
